@@ -1,0 +1,8 @@
+Invoke test method - DONE 
+Invoke setUp first - DONE
+Invoke tearDown afterwards - DONE
+invoke tearDown even if test method fails - DONE
+Run multiple tests - DONE
+Report collected results - DONE 
+Report failed tests - DONE
+

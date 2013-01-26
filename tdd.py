@@ -121,4 +121,5 @@ suite.add(TestCaseTest("testFailedResult"))
 suite.add(TestCaseTest("testResultFormatting"))
 suite.add(TestCaseTest("testSuite"))
 suite.run(result)
+print result.summary()
 
