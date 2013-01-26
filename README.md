@@ -17,11 +17,11 @@ Checklist
 * Catch and report setUp errors
 * Create TestSuite from a TestCase class
 
-Although the checklist isn't complete, Chapter 23 is the last of the "code along" chapters in Part II: The xUnit Example.  Kent Beck states, "I will leave the rest of these items to you and your new-found TDD skills."
+The checklist isn't complete. In Part II: The xUnit Example, it states: "I will leave the rest of these items to you and your new-found TDD skills."
 
 Running the Tests
 -----------------
 
-From the command line, run `python TestCaseTest.py`
+From the command line, run `python tdd.py`
 
 [1]: http://www.amazon.co.uk/Test-Driven-Development-Addison-Wesley-Signature/dp/0321146530
